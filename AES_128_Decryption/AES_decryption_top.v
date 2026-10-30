@@ -5,7 +5,6 @@
 // Design Name: AES 128 Encryption and Decryption
 // Module Name: AES_decryption_top
 // Project Name: AES_128 Decryption
-// Target Devices: 
 // Tool Versions: Vivado 2023.1 
 // Description: Verilog HDL implementation of the AES-128 decryption algorithm with a 128-bit ciphertext input and a 128-bit secret key, producing a 128-bit plaintext output.
 //               Includes InvSubBytes, InvShiftRows, InvMixColumns, AddRoundKey, and Key Expansion transformations for FPGA-based hardware implementation. 
