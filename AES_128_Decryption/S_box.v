@@ -1,22 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 26.10.2026 14:13:15
-// Design Name: 
-// Module Name: S_box
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Engineer: Abhishek Borate
+// Create Date: 29.10.2026 11:03:30
+// Design Name: AES 128 Encryption and Decryption
+// Module Name: S_box.v
+// Project Name: AES_128 Decryption
+// Tool Versions: Vivado 2023.1 
+// Description: Verilog HDL implementation of the AES-128 decryption algorithm with a 128-bit ciphertext input and a 128-bit secret key, producing a 128-bit plaintext output.
+//               Includes InvSubBytes, InvShiftRows, InvMixColumns, AddRoundKey, and Key Expansion transformations for FPGA-based hardware implementation. 
 //////////////////////////////////////////////////////////////////////////////////
 
 
