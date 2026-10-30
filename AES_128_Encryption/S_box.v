@@ -7,7 +7,7 @@
 // Project Name: AES 128 Encryption  
 // Tool Versions: Vivado 2023.1 
 // Description: Verilog HDL implementation of the AES-128 encryption algorithm with a 128-bit plaintext input and a 128-bit secret key, producing a 128-bit ciphertext output. 
-                Includes SubBytes, ShiftRows, MixColumns, AddRoundKey, and Key Expansion transformations for FPGA-based hardware implementation.
+ //               Includes SubBytes, ShiftRows, MixColumns, AddRoundKey, and Key Expansion transformations for FPGA-based hardware implementation.
 //////////////////////////////////////////////////////////////////////////////////
 
 
