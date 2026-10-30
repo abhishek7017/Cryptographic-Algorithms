@@ -1,22 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 28.10.2026 00:43:16
-// Design Name: 
+// Engineer: Abhishek Borate
+// Create Date: 26.10.2026 22:37:30
+// Design Name: AES_128 Encryption and Decryption
 // Module Name: AES_final_round
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Project Name: AES 128 Encryption 
+// Tool Versions: Vivado 2023.1 
+// Description: Verilog HDL implementation of the AES-128 encryption algorithm with a 128-bit plaintext input and a 128-bit secret key, producing a 128-bit ciphertext output. 
+                Includes SubBytes, ShiftRows, MixColumns, AddRoundKey, and Key Expansion transformations for FPGA-based hardware implementation.
 //////////////////////////////////////////////////////////////////////////////////
 
 
